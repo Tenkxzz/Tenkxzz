@@ -51,8 +51,5 @@ I am passionate about technology, security, and continuous learning.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
-</p>
 
 ⭐ *Always learning. Always improving.*
