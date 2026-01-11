@@ -80,7 +80,7 @@ I am passionate about technology, security, and continuous learning.
     style="max-width: 100%; height: auto;"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
----
+
 
 
 ⭐ *Always learning. Always improving.*
